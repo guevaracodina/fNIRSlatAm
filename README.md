@@ -1,6 +1,10 @@
 # fNIRSlatAm
 Code to create an fNIRS publication network in Latin American countries
 
+Please cite:
+
+Guevara, E., Mesquita, R. C., & Orihuela-Espina, F. (2025). Emerging panorama of functional near-infrared spectroscopy in Latin America. _Neurophotonics_, **13**(S1), S13002. https://doi.org/10.1117/1.NPh.13.S1.S13002
+
 ## Installation instructions
 Install MiniConda: Download and install MiniConda from the [official site](https://docs.conda.io/en/latest/miniconda.html)
 
